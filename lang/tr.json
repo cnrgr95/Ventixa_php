@@ -1,0 +1,94 @@
+{
+    "login": {
+        "title": "Giriş",
+        "email": "E-Posta",
+        "password": "Şifre",
+        "language": "Dil",
+        "remember_me": "Beni Hatırla",
+        "forgot_password": "Şifremi Unuttum",
+        "login_button": "Giriş",
+        "invalid_credentials": "Geçersiz e-posta veya şifre",
+        "account_locked": "Hesap kilitli",
+        "login_success": "Giriş başarılı"
+    },
+    "common": {
+        "loading": "Yükleniyor...",
+        "error": "Hata",
+        "success": "Başarılı",
+        "cancel": "İptal",
+        "save": "Kaydet",
+        "delete": "Sil",
+        "edit": "Düzenle",
+        "add": "Ekle",
+        "search": "Ara",
+        "filter": "Filtrele",
+        "export": "Dışa Aktar",
+        "import": "İçe Aktar"
+    },
+    "navigation": {
+        "dashboard": "Ana Sayfa",
+        "users": "Kullanıcılar",
+        "agencies": "Acenteler",
+        "guides": "Rehberler",
+        "tours": "Turlar",
+        "bookings": "Rezervasyonlar",
+        "settings": "Ayarlar",
+        "logout_confirmation": "Çıkış yapmak istediğinizden emin misiniz?",
+        "logout_confirm_yes": "Evet, Çıkış Yap",
+        "logout_confirm_no": "İptal"
+    },
+    "user_groups": {
+        "admin": "Yönetici",
+        "agency": "Acente",
+        "guide": "Rehber",
+        "customer": "Müşteri"
+    },
+    "messages": {
+        "welcome": "Ventixa'ya Hoş Geldiniz",
+        "login_required": "Devam etmek için lütfen giriş yapın",
+        "access_denied": "Erişim reddedildi",
+        "session_expired": "Oturum süresi doldu, lütfen tekrar giriş yapın",
+        "password_reset_success": "Şifreniz başarıyla sıfırlandı. Şimdi giriş yapabilirsiniz.",
+        "logged_out": "Başarıyla çıkış yaptınız.",
+        "invalid_token": "Geçersiz şifre sıfırlama bağlantısı.",
+        "expired_token": "Şifre sıfırlama bağlantısının süresi dolmuş veya zaten kullanılmış.",
+        "fill_all_fields": "Lütfen tüm alanları doldurun.",
+        "passwords_not_match": "Şifreler eşleşmiyor.",
+        "passwords_match": "Şifreler eşleşiyor",
+        "password_min_length": "Şifre en az 12 karakter olmalıdır.",
+        "password_updated": "Şifre başarıyla güncellendi",
+        "password_requirements": "Şifre Gereksinimleri",
+        "password_weak": "Zayıf Şifre",
+        "password_medium": "Orta Şifre", 
+        "password_strong": "Güçlü Şifre",
+        "password_very_strong": "Çok Güçlü Şifre",
+        "password_must_contain": "Şifre şunları içermelidir:",
+        "password_lowercase": "En az bir küçük harf",
+        "password_uppercase": "En az bir büyük harf",
+        "password_number": "En az bir rakam",
+        "password_symbol": "En az bir özel karakter",
+        "password_length": "En az 12 karakter",
+        "reset_email_sent": "Eğer bu e-posta adresi sistemimizde kayıtlıysa, şifre sıfırlama bağlantısı gönderildi.",
+        "error_occurred": "Bir hata oluştu. Lütfen tekrar deneyin.",
+        "token_already_used": "Bu şifre sıfırlama bağlantısı zaten kullanılmış.",
+        "token_expired": "Şifre sıfırlama bağlantısının süresi dolmuş.",
+        "old_tokens_deactivated": "Önceki şifre sıfırlama bağlantıları devre dışı bırakıldı. Sadece en son bağlantı geçerlidir."
+    },
+    "password_reset": {
+        "title": "Şifre Sıfırlama",
+        "new_password": "Yeni Şifre",
+        "confirm_password": "Şifre Tekrar",
+        "update_button": "Şifreyi Güncelle",
+        "back_to_login": "Giriş sayfasına dön",
+        "set_new_password": "Yeni Şifrenizi Belirleyin"
+    },
+    "forgot_password": {
+        "title": "Şifremi Unuttum?",
+        "description": "E-posta adresinizi girin, size şifre sıfırlama bağlantısı gönderelim.",
+        "email_placeholder": "E-posta adresinizi girin",
+        "send_button": "Sıfırlama Bağlantısı Gönder"
+    },
+    "footer": {
+        "copyright": "© 2024 Ventixa. All rights reserved."
+    }
+}

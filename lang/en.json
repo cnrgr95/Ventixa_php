@@ -1,0 +1,94 @@
+{
+    "login": {
+        "title": "Login",
+        "email": "E-Mail",
+        "password": "Password",
+        "language": "Language",
+        "remember_me": "Remember Me",
+        "forgot_password": "Forgot Password?",
+        "login_button": "Login",
+        "invalid_credentials": "Invalid email or password",
+        "account_locked": "Account is locked",
+        "login_success": "Login successful"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "cancel": "Cancel",
+        "save": "Save",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "search": "Search",
+        "filter": "Filter",
+        "export": "Export",
+        "import": "Import"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "users": "Users",
+        "agencies": "Agencies",
+        "guides": "Guides",
+        "tours": "Tours",
+        "bookings": "Bookings",
+        "settings": "Settings",
+        "logout_confirmation": "Are you sure you want to logout?",
+        "logout_confirm_yes": "Yes, Logout",
+        "logout_confirm_no": "Cancel"
+    },
+    "user_groups": {
+        "admin": "Administrator",
+        "agency": "Agency",
+        "guide": "Guide",
+        "customer": "Customer"
+    },
+    "messages": {
+        "welcome": "Welcome to Ventixa",
+        "login_required": "Please login to continue",
+        "access_denied": "Access denied",
+        "session_expired": "Session expired, please login again",
+        "password_reset_success": "Your password has been successfully reset. You can now login.",
+        "logged_out": "You have been successfully logged out.",
+        "invalid_token": "Invalid password reset link.",
+        "expired_token": "Password reset link has expired or has already been used.",
+        "fill_all_fields": "Please fill in all fields.",
+        "passwords_not_match": "Passwords do not match.",
+        "passwords_match": "Passwords match",
+        "password_min_length": "Password must be at least 12 characters.",
+        "password_updated": "Password updated successfully",
+        "password_requirements": "Password Requirements",
+        "password_weak": "Weak Password",
+        "password_medium": "Medium Password", 
+        "password_strong": "Strong Password",
+        "password_very_strong": "Very Strong Password",
+        "password_must_contain": "Password must contain:",
+        "password_lowercase": "At least one lowercase letter",
+        "password_uppercase": "At least one uppercase letter",
+        "password_number": "At least one number",
+        "password_symbol": "At least one special character",
+        "password_length": "At least 12 characters",
+        "reset_email_sent": "If this email address is registered in our system, a password reset link has been sent.",
+        "error_occurred": "An error occurred. Please try again.",
+        "token_already_used": "This password reset link has already been used.",
+        "token_expired": "Password reset link has expired.",
+        "old_tokens_deactivated": "Previous password reset links have been deactivated. Only the latest link is valid."
+    },
+    "password_reset": {
+        "title": "Password Reset",
+        "new_password": "New Password",
+        "confirm_password": "Confirm Password",
+        "update_button": "Update Password",
+        "back_to_login": "Back to Login",
+        "set_new_password": "Set Your New Password"
+    },
+    "forgot_password": {
+        "title": "Forgot Password?",
+        "description": "Enter your email address and we'll send you a link to reset your password.",
+        "email_placeholder": "Enter your email",
+        "send_button": "Send Reset Link"
+    },
+    "footer": {
+        "copyright": "© 2024 Ventixa. All rights reserved."
+    }
+}
